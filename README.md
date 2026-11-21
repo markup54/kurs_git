@@ -22,3 +22,5 @@ Nauka podstaw pracy z Git.
 - Git
 
 Materiały powstają w trakcie kursu.
+
+Zmiana w trakcie kursu
